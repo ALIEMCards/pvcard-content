@@ -1,6 +1,6 @@
 # PV Cards Beta
 
+- testint Prose.io editing on GitHub
 - testing markdown as PV Card format
 - testing an editing and submission workflow
 - all PV Cards: [aliem.com/pv-cards](http://www.aliem.com/pv-cards)
-
