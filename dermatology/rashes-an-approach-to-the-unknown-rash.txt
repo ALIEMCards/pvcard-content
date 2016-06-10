@@ -1,0 +1,77 @@
+# Rashes: An approach to the unknown rash
+##Rash descriptors
+
+**Lesion** Single small diseased area
+**Rash** Eruption of skin, more than single lesion
+___
+**Macule** Circumscribed area of change without elevation
+**Papule** Solid raised lesion < 1 cm
+**Nodule** Solid raised lesion >/= 1 cm
+**Plaque** Circumscribed elevated confluence of papules >/= 1 cm
+___
+**Pustule** Circumscribed area containing pus
+**Vesicle** Circumscribed fluid-filled area < 1cm
+**Bulla** Circumscribed fluid-filled area >/= 1 cm
+___
+**Petichia** Small re/brown macule </= 1 cm that does not blanch
+___
+
+|Quick profiling of rash|||
+|:---------------|:-----------------|:----------------------|
+|**Patient age**| 0-5 yrs| Meningococcemia, Kawasaki dz, viral exanthema|
+||65 yrs| Pemphigus vulgaris, sepsis, meningococcemia, TEN, SJS, TSS|
+|**Rash**| Diffuse erythema| Staph SSS, staph/strep TSS, necrotizing fasciitis|
+||Mucosal lesions| EM, TEN, SJS, pemphigus vulgaris|
+||Petechiae/purpura|Meningococcemia, necrotizing fasciitis, vasculitis, DIC, RMSF|
+|**Symptom**| Hypotension| Menigococcemia, TSS, RMSF, TEN, SJS|
+
+Abbreviations: 
+*TEN: Toxic epidermal necrolysis, SSS: scalded skin syndrome, SJS: Steven-Johnson syndrome, DIC: Disseminated intravascular coagulopathy, TSS: toxic shock syndrome, RMSF: Rocky Mountain spotted feve, EM: Erythema Multiforme major, DRESS: Drug reaction with eosinophilia and systemic symptoms, ITP: Idiopathic thrombocytopenic purpura, TTP: Thrombotic thrombocytopenic purpura*
+
+## Diagnosing: Erythematous Rash
+|||Erythematous rash|||
+|:---:|:---:|:---:|:---:|:----:|
+|||**Nikolsky sign**|||
+||*Yes*||*No*||
+|**Febrile**|**Afebrile**||**Febrile**|**Afebrile**|
+|SSS (pediatric)|SJS/TEN||TSS|Anaphylaxis|
+|SJS/TEN(+mucous membranes)|||Kawasaki disease (children, swollen hands, injected sclera)|Scombroid poisoning|
+|DRESS|||Scarlet fever (sand paper rash)|Alcohol flush|
+
+##Diagnosing: Maculopapular Rash
+|||Maculopapular rash|||
+|:--:|:--:|:--:|:--:|:--:|
+||**Central distribution**||**Peripheral distribution**||
+||**Fever/ill**||**Fever/ill**||
+|*Yes*|*No*||*Yes*|*No*|
+|Viral exanthum|Drug reaction||Meningococcemia|**Flexor**|
+|Lyme disease|Pityriasis||RMSF, Syphilis|Scabies|
+|DRESS|||Lyme Disease|Eczema|
+||||**(+)Target Lesions**|**Extensor**|
+||||SJS, EM|Psoriasis|
+
+##Diagnosing: Petechial/Purpuric Rash
+|||Petechial/purpuric rash|||
+|:--:|:--:|:--:|:--:|:--:|
+||**Febrile/ill**||**Afebrile**||
+|*Palpable*|*Nonpalpable*||*Palpable*|*Nonpalpable*|
+|Meningococcemia|Purpura fulminans||Autoimmune vasculitis|**Thrombocytopenia**|
+|disseminated gonorrhea|**Thrombocytopenia**|||ITP|
+|endocarditis|DIC||||
+|RMSF|TTP||||
+|Henoch-Schonlein purpura|Dengue||||
+
+##Diagnosing: Vesiculobullous Rash
+|||Vesiculobullous rash|||
+|::--:|:--:|:--:|:--:|:--:|
+||**Febrile**||**Febrile**||
+|*Diffuse distribution*|*Localized distribution*||*Diffuse distribution*|*Localized distribution*|
+|Varicella|Necrotizing faciitis||Pemphigus vulgaris|Burn|
+|Smallpox|Hand-foot-mouth disease||Bullous pemphigoid|Contact dermatitis|
+|Disseminated gonorrhea||||Herpes zoster|
+|Purpura fulminans||||Dyshidrotic ezema|
+|DIC|||||
+
+## Reference:
+Murphy-Lavoie H, LeGros TL.  Emergent Diagnosis of the Unknown Rash. *Emergency Medicine*. 2010 March. (www.emedmag.com)
+

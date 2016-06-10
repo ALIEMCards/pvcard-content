@@ -1,0 +1,38 @@
+# ACLS 2015 Guidelines for Cardiac Arrest
+
+![acls-2015-ca-algorithm.png](images/acls-2015-ca-algorithm.png)
+
+##CPR
+- ETCO2 < 10 mm Hg, attempt to improve CPR quality
+- If no advanced airway, 30:2 compression-ventilation ratio
+- If advanced airway inplace, continuous compressions and 1 breath every 6 seconds.
+
+##Drug Therapy
+- <span class="drug">Epinephrine</span> IV/IO dose: 1 mg every 3-5 minutes
+- <span class="drug">Amiodarone</span> IV/IO dose: 1st - 300 mg bolus, 2ng - 150 mg bolus
+
+##Advanced Airway
+- Endotracheal intubation or subraglottic airway
+
+## Return of Spontaneous Circulation (ROSC)
+- Pusle and blood pressure
+- Abrupt sustained increase in ETCO2 (typically >/= 40 mm Hg)
+
+## Recersible Causes
+- **H**ypovolemia
+- **H**ypoxia
+- **H**ydrogen ion (acidosis)
+- **H**ypo/hyper-kalemia
+- **H**ypothermia
+- **T**ension pneuomthorax
+- **T**amponade, cardiac
+- **T**oxins
+- **T**hrombosis, pulmonary/coronary
+
+## Indications of considering stopping CPR
+- ETCO2 < 10 mm Hg after 20 minutes (*Intubated patients*)
+
+
+##References:
+Link MS, et al. Part 7: Adult Cardiovascular Life Support: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resusitation and Emergency Cardiovascular Care. * Circulation*. 2015 Nov 3; 132(18 Suppl 2):S444-64.
+

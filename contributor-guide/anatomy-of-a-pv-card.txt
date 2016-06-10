@@ -1,0 +1,166 @@
+# Anatomy of a PV Card
+
+This guide will show you the pieces of an original PV Card and how to edit them as plain text, using  [Markdown.][markdown] All this formating can be done as plain text, i.e. you can literally type "### Section Heading" or you can use the formating tools at the top of the screen to do the formating for you, much like using Microsoft Word.
+
+Using [Markdown][markdown] may seem like an unnecessary step, but this helps us convert the cards to HTML, which is the most portable format for digital content distribution. Using that HTML we can make a website, mobile app, or even an e-book. All from the same document! That power is what we're going for.
+
+You can see the [original Anaphylaxis card](https://www.google.com/url?q=https://dl.dropboxusercontent.com/u/5247611/Anaphylaxis.pdf&usd=2&usg=ALhdy29c2fo3KNeoYa4PJaXj-bVONzhxZQ) and compare it to the [Markdown version of the card][anaphylaxis].
+
+- [Card Title](#card-title)
+- [Section Titles](#section-title)
+- [Emphasis](#emphasis)
+- [Pull Quote](#pull-quote)
+- [Lists](#lists)
+- [Drug Names](#drug-names)
+- [References](#references)
+
+---
+
+<a name="card-title"></a>
+## Card Title
+All cards begin with their title. In the original cards it looks like this:
+![title.png](images/title.png)
+
+In [Markdown][markdown] it is an H1 header and looks like this:
+```no-highlight
+# Anaphylaxis
+```
+
+You can see in the original cards that the [references](#references) were at the top. We are moving these to the more traditional spot at the end of the card. 
+
+---
+
+<a name="section-title"></a>
+## Section Titles
+Within the card section titles separate the main content areas.
+![sections.png](images/sections.png)
+
+In [Markdown][markdown] it is an H3 header and looks like this:
+```no-highlight
+### ED Management
+```
+---
+
+<a name="emphasis"></a>
+## Emphasis
+**Bold** text is the most common emphasis in the PV Cards. There are occassional *italics.*
+
+Here is some **bold** text from the [Anaphylaxis][anaphylaxis] card:
+![bold.png](images/bold.png)
+
+In [Markdown][markdown] it is simple:
+```no-highlight
+**Definition:** a serious allergic reaction that is rapid in onset and might cause death
+**Mechanism:** IgE-mediated immune reaction
+**Pearl:** Hypotension is NOT required to diagnose anaphylaxis
+**Triggers:** Almost any food, allergens, or medication can be a trigger
+```
+
+*Italics* are just as simple:
+```no-highlight
+*This is all in italics.*
+```
+---
+
+<a name="pull-quote"></a>
+## Pull Quote
+Occassionally you will want to emphasize more than a word or two, maybe a key pearl or definition. This is done by using a pull quote.
+
+Here is an example of some content that was included in a section header, but probably fits better as a pull quote:
+![quote.png](images/quote.png)
+
+In [Markdown][markdown] it is a paragraph of its own, must begin with ">" and looks like this:
+```no-highlight
+> Highly likely if 1 of 3 criteria fulfilled per 2nd National Institute of Allergy and ID/Food Allergy and Anaphylaxis Network
+```
+
+If you want to use multiple lines, make sure there is only a single line break between them and begin each line with ">". This pull quote even uses *italics* for emphasis within it!
+```no-highlight
+> *Low Pediatric SBP Definitions*
+> Age 1mo - 1yr:	SBP < 70 mmHg
+> Age 1yr - 10yrs: 	SBP < (70 mmHg + age*2)
+```
+
+---
+
+<a name="lists"></a>
+## Lists
+Lists are a common feature of PV Cards. They can be ordered lists (1, 2, 3) or unordered lists (bullets), or a combination of both:
+![lists.png](images/lists.png)
+
+An unordered list is any list of items, each on their own new line, beginning with "-".
+```no-highlight
+- hepatitis
+- cholelithiasis
+- cholangitis
+- pancreatitis
+```
+- hepatitis
+- cholelithiasis
+- cholangitis
+- pancreatitis
+
+An ordered list must begin each line with a number:
+```no-highlight
+1. pneumonia
+2. pneumothorax
+3. pulmonary embolism
+```
+1. pneumonia
+2. pneumothorax
+3. pulmonary embolism
+
+A sublist must begin with two spaces or a tab, it can be ordered or unordered:
+```no-highlight
+- Swollen Knee Differential
+	- gout
+    - traumatic hemarthrosis
+    - septic joint
+- Red Eye Differential
+	1. acute angle closure glaucoma
+    2. scleritis
+    3. dry eye
+    4. conjunctivits
+```
+- Swollen Knee Differential
+	- gout
+    - traumatic hemarthrosis
+    - septic joint
+- Red Eye Differential
+	1. acute angle closure glaucoma
+    2. scleritis
+    3. dry eye
+    4. conjunctivits
+    
+---
+
+<a name="drug-names"></a>
+## Drug Names
+Drug names or other therapies get special treatment in PV Cards:
+![lists-drugs.png](images/lists-drugs.png)
+
+Unfortunately there is no easy way to accomplish this in [Markdown](markdown). But, Markdown is turned into HTML. Don't be scared, but with a little HTML we can get just what we need:
+```no-highlight
+<span class="drug">IM epinepherine</span> STAT. Repeat every 5-15min if refractory
+```
+---
+
+<a name="references"></a>
+## References
+In the original cards, references were at the top, with the [card title](#card-title):
+
+![title.png](images/title.png)
+
+In our version, we are putting the references in their own section at the end. The section is set off from the main card with a horizontal line. The title is an H2 header, followed by an ordered [list](#lists):
+ ```no-highlight
+ 
+ ---
+ 
+ ## References
+- Simons FER. *J Allergy Clin Immunol* 2010;125:S161-81. 
+- Arnold JJ, Williams PM. *Amer Fam Phys* 2011; 84(10):1111-8.
+```
+
+
+[markdown]: https://www.penflip.com/Penflip/help/blob/master/writing/Markdown.txt
+[anaphylaxis]: https://www.penflip.com/jeremyvoros/pv-cards-beta/blob/master/allergyimmunology/anaphylaxis.txt

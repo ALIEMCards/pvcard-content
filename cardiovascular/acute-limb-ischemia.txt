@@ -1,0 +1,95 @@
+# Acute Limb Ischemia
+
+**_True vascular emergency_**
+
+**Golden Window** = 6 hours (before irreversible neuromuscular damage) 
+**Etiologies:** typically thromboembolic cause
+**Less common causes:** Vascular dissection, compartment syndrome, thoracic outlet syndrome, trauma, vasospasm, vasculitis, low intravascular volume
+
+**Focused physical exam**
+1. **Cardiac** – check for murmur, atrial fibrillation
+2. **Extremity** – check for signs of chronic peripheral vascular dz (foot
+ulcer, decrease arterial pulse in contralateral extremity,
+hair loss, muscle atrophy)
+3. **Neurological** – check for sensory and motor loss
+4. **Ankle-brachial index measurement**
+
+- ABI = (highest of DP or PT pressure on that side) / (highest of left or right brachial artery pressure)
+    
+5. **Vascular** – grade peripheral pulses
+
+|Grade|Finding|
+|---------|-----------|
+| 0 | No Doppler signal |
+| 1 | Reduced pulse |
+| 2 | Normal |
+| 3 | Increased pulse |
+| 4 | Bounding pulse |
+    
+ ### Rutherford Classification scheme for ALI
+ 
+- Thrombotic occlusions usually class I or IIA because of presence of collateral vasculature
+- Embolic occlusions usually class IIB or III
+
+ **Class I**
+ - Category: Viable
+ - Prognosis: No immediate limb threat
+ - Sensory Loss: None
+ - Muscle Weakness: None
+ - Arterial Doppler: Audible
+ - Venous Doppler: Audible
+ 
+ **Class IIA**
+ - Category: Threatened, marginal
+ - Prognosis: Salvagable if treated promptly
+ - Sensory Loss: Minimal, none
+ - Muscle Weakness: None
+ - Arterial Doppler: +/- Audible
+ - Venous Doppler: Audible
+ 
+ ** Class IIB**
+ - Category: Threatened, immediate
+ - Prognosis: Salvagable if treated immediately
+ - Sensory Loss: More than just toes
+ - Muscle Weakness: Mild to moderate
+ - Arterial Doppler: Rare audible
+ - Venous Doppler: Audible
+ 
+ ** Class III**
+ - Category: Irreversible
+ - Prognosis: Limb loss or permanent damage
+ - Sensory Loss: Profound
+ - Muscle Weakness: Profound
+ - Arterial Doppler: None
+ - Venous Doppler: None
+ 
+
+### ED Tests
+- ABI, EKG
+- CBC, Type and screen, Basic metabolic panel, PT/PTT,
+Creatine kinase (CK), Troponin
+- First line imaging = Digital subtraction angiography (DSA)
+- U/S, CTA, MRA – not well studied in ALI and loss of time-to-
+intervention
+- No imaging if unstable patient --> go straight to amputation
+
+### ED Treatment
+- ASA
+- Unfractionated heparin (consider no bolus and lower infusion
+b/c risk of hemorrhage)
+- Position extremity in dependent position
+- Avoid extremes of temperature
+- Pain control
+
+### Management Plan
+	
+    - Interventional radiology = Catheter-directed (intra-arterial)
+thrombolysis +/-Mechanical thrombectomy: If Class I or IIA ischemia; duration <14 days, esp if bypass graft; high operative risk
+
+	- Operating room for open thrombectomy, bypass: If Class IIB or III ischemia; symptoms > 14 days
+
+	- Amputation: If class III and high risk for reperfusion injury
+
+## References
+
+1. Rutherford et al. J Vasc Surg. 1997; 26:517-38.

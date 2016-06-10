@@ -1,0 +1,60 @@
+# Acute Vestibular Syndrome vs Stroke
+
+**Acute vestibular syndrome (AVS):** Acute dizziness with N/V, unsteady gait, nystagmus, intolerance to head motion, and lasts ≥24 hrs; no focal neuro signs (hemiparesis, hemisensory loss, gaze palsy)
+
+- Most common causes: Vestibular neuritis (labyrinthitis) and vertebrobasilar CVA 
+- Central causes: Vertebrobasilar CVA (83%), multiple sclerosis (11%), other (6%)
+- Over 50% of vertebrobasilar CVA’s have no focal neuro deficit
+- Excludes benign positional vertigo and Meniere’s (< 24 hrs of continuous sx)
+
+**Which *bedside* tests can help differentiate peripheral from central causes of AVS?**
+
+### NOT HELPFUL
+
+- Differentiating type of dizziness (vertigo, presyncope, unsteadiness)
+- Onset of dizziness (sudden vs gradual)
+- Provocative head movement (eg. Hallpike-Dix)
+- Proportionality of sx such as severity of dizziness, vomiting, gait impairment (eg. severe gait impairment with mild dizziness does not mean central cause)
+- Hearing loss
+- Patterns and vectors of nystagmus
+- Noncontrast head CT has sensitivity of only 16% for acute ischemic CVA
+
+### HELPFUL
+
+- **Multiple prodromal episodes of dizziness** – Predictive of central cause (CVA)
+- **Headache or neck pain** – Predictive of central cause (CVA, vertebral artery dissection) with positive LR = 3.2. Absence of pain not as predictive.
+- **Any neurologic signs, esp. truncal ataxia** (unable sit upright with arms crossed) and severe gait instability – Strongly predictive of central cause
+- **Horizontal head impulse test** (vestibular-ocular reflex) – If normal, predictive of central cause (positive LR 18.4, negative LR 0.16)
+- **Gaze-evoked nystagmus** (right-beating nystagmus on right gaze and left-beating nystagmus on left gaze) = dysfunction of gaze-holding structures in brainstem and cerebellum – If abnormal, predictive of central cause (specificity 92%, sens 38%)
+- **Vertical ocular misalignment on alternate cover test** – If abnormal skew deviation, predictive of central cause (specificity 98%, sens 30%)
+- **Diffusion-weighted MRI** is good but not perfect - Sensitivity 83% for ischemic CVA
+
+### H.I.N.T.S. EXAM
+
+- **H**ead **I**mpulse test
+- Gaze-evoked **N**ystagmus
+- **T**est of **S**kew
+
+Abnormal findings summarized using INFARCTs acronym:
+
+- **I**mpulse **N**ormal
+- **F**ast-phase **A**lternating
+- **R**efixation on **C**over **T**est
+
+If any 1 of 3 abnormal, sensitivity 100% and specificity 96% for central cause
+
+HINTS test seems just as good as diffusion-weighted MRI to r/o CVA in AVS.
+
+---
+
+## References
+
+- Tarnutzer AA et al. CMAJ. 2011; 183(9): E571-592.
+- Kattah et al, Stroke, 2009
+
+
+
+
+
+
+

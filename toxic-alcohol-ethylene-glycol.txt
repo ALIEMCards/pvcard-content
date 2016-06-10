@@ -1,0 +1,63 @@
+# Toxic Alcohol: Ethylene Glycol
+
+## General concepts for all 3 toxic alcohols:
+- Parent compounds (not metabolites) cause high osmolal gap
+- When NADH depleted, pyruvate converts to lactate --> causes lactic acidosis
+
+## Metabolism of toxic alcohols
+ ![toxic-alcohols-mechanism.png](images/toxic-alcohols-mechanism.png)
+
+
+## EG: Factoids
+- Found in antifreeze, coolants, deicing solutions, ink in stamp pads and ballpoint pens
+- Pharmacology:
+    - Peak serum concentration 1-4 hours, elimination half-life 3 hours
+    - Minimum lethal dose 1-1.5 mL/kg 
+    - Metabolites (eg. oxalate acid) cause toxicity, but do NOT cause osmolal gap
+- Labs: High anion gap metabolic acidosis and high osmolal gap (early only)
+
+## EG: Classic Presentation = Altered mental status, hypoCa, oxalate crystals in urine
+- Neurologic – N/V, inebriation with euphoria, nystagmus, ataxia, myoclonic jerks… then CNS depression, hypotonia, seizures, coma
+- Cardiopulmonary – Hyperventilation from respiratory compensation of acidosis, hypoxia from heart failure, multiorgan failure, ARDS
+- Renal – Flank pain, ATN, renal failure
+
+## EG: Management
+- Goal: Prevent further formation of (fomipezole) & eliminate toxic metabolites (dialysis)
+- Antidote = Fomipezole inhibits alcohol dehydrogenase (alternative antidote= ethanol)
+    - Loading dose 	15 mg/kg IV	
+- Maintenance dose 10 mg/kg IV every 12 hours x 2 days 
+
+# EG: American Academy of Clinical Toxicology guidelines
+1. Indications for treatment of EG poisoning with ANTIDOTE: (any of following)
+1. Documented plasma ethylene glycol > 20 mg/dL
+1. Documented recent hx of ingesting toxic EG amounts and osmolal gap>10 mOsm/L
+1. Strong suspicion of EG poisoning and at least 2 criteria:
+    - Arterial pH < 7.3
+    - Serum bicarbonate < 20 mEq/L
+    - Osmolal gap > 10 mOsm/L
+    - Urine oxalate crystal present
+
+## Indications for treatment of EG toxicity with HEMODIALYSIS: (any of following)
+1. Deteriorating clinical status despite supportive tx PLUS metabolic acidosis (arterial pH<7.25-7.3)
+1. Acute kidney injury with serum Cr >3 mg/dL or increase in serum Cr by 1 mg/dL
+1. Acid-base/electrolyte abnormalities unresponsive to standard tx
+1. Old recommendation: EG level > 50 mg/dL
+
+> Note:Fomipezole without hemodialysis is an option if normal renal function AND no metabolic acidosis.
+
+
+## References
+Kraut JF, Kurtz I. Clin J Am Soc Nephrol 2008. PMID: [18045860](http://www.ncbi.nlm.nih.gov/pubmed/18045860)
+Jammalamadaka D, Raissi S. Am J Med Sci 2010. PMID: [20090509](http://www.ncbi.nlm.nih.gov/pubmed/20090509)
+Marraffa JM, et al. Am J Health-Syst Pharm 2012. PMID: [22261941](http://www.ncbi.nlm.nih.gov/pubmed/22261941)
+
+
+
+
+
+
+
+
+
+
+

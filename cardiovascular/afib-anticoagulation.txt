@@ -1,0 +1,58 @@
+# Anticoagulation in Atrial Fibrillation
+
+Atrial Fibrillation (AF) = 5x risk for CVA and increases with age 
+
+**Stroke risk stratification for patients with AF:**
+
+- Prior CVA or TIA
+- HTN
+- Age≥75
+- CHF
+- Poor LV function
+- DM
+
+**CHADS2 stroke risk score:**
+
+- C = Congestive heart failure (1 pt)
+- H = Hypertension (1 pt)
+- A=Age≥75(1pt)
+- D=DM(1pt)
+- S2 = prior Stroke or TIA (2 pts)
+
+![chads2.jpg](images/chads2.jpg)
+
+### Antithrombotic therapy based on risk factors
+
+- If age < 60 years and zero risk factors: No anticoagulation b/c low risk for CVA
+- Anticoagulation goal with <span class="drug">warfarin</span> is INR 2-3
+
+**Weak Risk Factors**
+Treat with <span class="drug">aspirin</span> or <span class="drug">warfarin</span>
+
+- Female gender 
+- Age 65-74 
+- Coronary artery disease 
+- Thyrotoxicosis
+
+**Moderate Risk Factors**
+Treat with <span class="drug">aspirin</span> or <span class="drug">warfarin</span> (1 risk factor) or <span class="drug">warfarin</span> (>1 risk factor)
+
+- Age > 75 
+- hypertension
+- Heart failure LVEF ≤ 35% 
+- Diabetes mellitus
+
+**High Risk Factors**
+Treat with <span class="drug">warfarin</span>
+
+- Prior CVA, TIA, embolism 
+- Mitral stenosis 
+- Mechanical heart valve
+
+---
+
+## References
+- Waldo AL. Cardiol Clin 2009; 27:125-35.
+- Gage BF et al. JAMA 2001;285:2864–70.
+- AHA/ ACC/ European Soc of Cardiology 2006 revised guidelines for antithrombotic therapy based on stroke risk
+

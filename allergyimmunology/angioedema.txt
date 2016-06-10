@@ -1,0 +1,70 @@
+# Angioedema
+
+**Definition:** self-limited, asymmetric, localized, non-pitting swelling
+
+**Background**
+
+- 15% of population; 50% present with urticaria
+- Common sites: periorbital, lips, tongue, extremity, bowel wall
+- Main cause of death = laryngeal edema (25-40% mortality if present)
+
+**Syndromes**
+
+1. Idiopathic Angioedema
+
+	- 38% of patients
+    
+2. Allergic or IgE Mediated Angioedema
+
+	- Type I hypersensitivity reaction
+	- Commonly from food or medications
+	- Tx: allergen avoidance, antihistamine, H2 blockers, glucocorticoid, epinephrine for laryngeal edema
+    
+3. Hereditary Angioedema
+
+	- C1 esterase inhibitor deficiency
+    - Triggers include: trauma (especially dental trauma), anxiety, menstruation, infection, exercise, alcohol consumption, and stress
+	- Prophylaxis tx = <span class="drug">danazol</span> better than <span class="drug">tranexamic acid</span> and <span class="drug">aminocaproic acid</span>
+	- Acute tx = <span class="drug">FFP</span> (or C1 inhibitor concentrate - given in Europe/Canada only), usual IgE-mediated treatment regimen ineffective except epinephrine for laryngeal edema
+    
+4. ACE Inhibitor Angioedema
+
+	- Up to 2.2% of those taking <span class="drug">ACE-I</span>’s
+	- From elevated levels of bradykinin
+	- Highest incidence during 1st month of starting medication, but can occur years after
+	- 5x more common in African-Americans compared to Caucasians
+	- Controversial whether patient can take <span class="drug">ARB</span>s (doesn’t cause elevated bradykinin) as well – some with angioedema.
+	- Tx = discontinue med, usual IgE-mediated treatment regimen ineffective except epinephrine for laryngeal edema
+
+**Treatment philosophy: **Low threshold to protect airway by intubation
+**Pearl: ** Be sure to prescribe patients <span class="drug">Epi-pen</span>
+
+---
+
+### Admission Guidelines for Angioedema
+*Ishoo E et al. Otolaryngol Head Neck Surg 1999; 121:263-8.*
+
+- Retrospective study of 93 episodes in 80 patients (1985-95) with no deaths 
+- 9.7% cases required intubation/tracheostomy
+
+**Causes:** 39% from ACE-I (generally more severe than allergic angioedema) 
+**Disposition:** 25% outpt, 23% floor, 53% ICU
+**ICU admissions** correlated with voice change, hoarseness, dyspnea, rash Airway intervention correlated with voice change, hoarseness, dyspnea, stridor
+
+**Proposed staging system:**
+
+- Stage I: Facial rash, facial edema, lip edema - outpatient
+- Stage II: Soft palate edema – outpatient or floor
+- Stage III: Lingual edema --> ICU (7% of stage III pts got airway intervention) 
+- Stage IV: Laryngeal edema –> ICU (24% of stage IV pts got airway intervention)
+
+---
+
+## References
+
+- Temino VM, Peebles RS. Am J Med 2008; 121: 282-6 and Emedicine.com.
+- Ishoo E et al. Otolaryngol Head Neck Surg 1999; 121:263-8.
+
+
+
+

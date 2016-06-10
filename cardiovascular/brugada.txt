@@ -1,0 +1,51 @@
+# Brugada Syndrome
+
+- Genetically linked, cardiac sodium channelopathy
+- High risk for sudden death in young, healthy adults because VTach/VFib
+- Mean age of sudden death = 41 ± 15 years
+- Higher prevalence in males and Asian descent
+- Atrial fibrillation associated in 10-20% cases
+
+### EKG Findings
+
+- 3 types
+- Type 1 most specific for Brugada, *highest risk for syncope and sudden death*
+
+![brugada.png](images/brugada.png)
+
+### Differential Diagnosis
+
+- After electrical cardioversion Arrhythmogenic RV dysplasia
+- Atypical right BBB
+- Acute MI, esp RV infarct
+- Acute myopericarditis
+- Compression of RV outflow tract Disorders of central/auton nerv systems 
+- Dissecting aortic aneurysm
+- Duchenne muscular dystrophy
+- Friedreich ataxia
+- Early repolarization, especially in athletes Hypothermia
+- Pericardial effusion
+- Pulmonary embolism
+- Left ventricular hypertrophy
+- Mediastinal tumor
+- Pectus excavatum
+
+### Treatment
+Treatment: Implantable cardiac defibrillator for Brugada Type 1 PLUS:
+
+- Aborted sudden cardiac death
+- Syncope, seizure, or noctural agonal respirations without alternative cause
+- Family hx of sudden cardiac death (likely from Brugada) AND positive EPS study
+- A positive EPS study
+
+Otherwise: close followup with cardiologist
+
+---
+
+## References
+- Antzelevitch C et al. Brugada Syndrome: Report of the Second Consensus Conference. Circulation. 2005; 111:659-670.
+
+
+
+
+

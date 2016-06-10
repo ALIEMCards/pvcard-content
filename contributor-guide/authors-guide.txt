@@ -1,0 +1,35 @@
+# Introduction
+Welcome to the Paucis Verbis (PV) cards project! 
+
+As the PV Cards transition from Michelle Lin's side-project of a side-project, it is volunteers like YOU that are going to make it a success and an ongoing valuable resource to the Emergency Medicine (EM) community.
+
+The goal of this project is to provide a point-of-care resource that is **concise, curated,  and up-to-date**. We want to create content that EM learners, residents, nurses, paramedics and/or attendings can use in many ways (as a memory-aid, a teaching tool etc.) at the point of care. Knowing which content meets these goals is the art of the project. That is up to you! 
+
+## Internet Publishing and the Future of Medical Education
+This project is designed to disrupt the traditional medical text publishing paradigm. In the current model, content creators create content (textbooks/journal articles) without being paid and learners read their material (after paying for a book or journal subscription) There are several limitations to this system: 
+
+- The publisher is a middleman, operating for profit
+- The peer review and editorial process are slow and non-transparent
+- Key texts are infrequently updated
+- Practice changing literature is hidden behind a paywall
+
+In this project we are piloting a publishing workflow that is faster, more accessible, more transparent, and free for end users.  
+
+- Content creators will be connected directly with learners.
+- Content is published online enabling new information to be updated and distributed 	immediately. 
+- A robust version control system allows all previous versions of the text to be available 	online, making the editing and peer-review process transparent.
+
+
+## Version Control via Penflip
+**Penflip** is the tool we are using for editing and version tracking. Each contributor has their own version of the PV Cards where they can make changes.  Your version is then submitted to the PV Card editorial staff who review and double check your changes before the master copy is updated. 
+
+All versions of the document are stored in penflip so that no content is ever lost. We even have the ability to roll back previous document states if needed. 
+
+Check out the [Penflip Help] (https://www.penflip.com/Penflip/help) for complete details.
+
+## Markdown
+We will be using **Markdown** as the editing format for writing the PV Cards. [Markdown] (http://daringfireball.net/projects/markdown/) is a set of editorial conventions that let you write in plain text which we can easily convert to HTML.  Using the HTML format we can drop the card into a website, mobile app, e-reader book, etc. to make the cards accessible in a multitude of formats.   Essentially Markdown makes your writing internet-portable without being obtrusive. [Nerdplusart has a great editorial on why Markdown is a good choice.] (http://nerdplusart.com/markdown-is-the-future/)
+
+Penflip has a great [cheatsheet on Markdown] (https://www.penflip.com/Penflip/help/blob/master/writing/Markdown.txt). After browsing that for just a few minutes you will be a Markdown expert. Go on, open up another tab and take a look.
+
+The next page in this guide will breakdown the components of a PV Card and help you structure your own card using Markdown.

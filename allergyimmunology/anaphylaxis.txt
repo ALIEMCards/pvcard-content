@@ -1,0 +1,50 @@
+# Anaphylaxis
+
+**Definition:** a serious allergic reaction that is rapid in onset and might cause death
+**Mechanism:** IgE-mediated immune reaction
+**Pearl:** Hypotension is NOT required to diagnose anaphylaxis
+**Triggers:** Almost any food, allergens, or medication can be a trigger
+- common culprits: antibiotics (esp. beta-lactams), NSAIDs, peanuts, shellfish
+**Organ Involvement:** Skin 80-90%, Resp. 70%, GI 45%, CV 45%, CNS 15%
+**Biphasic anaphylaxis pattern:** 2nd flare may occur despite trigger removed (typically within 72 hours of onset)
+
+### Diagnostic Criteria
+> Highly likely if 1 of 3 criteria fulfilled per 2nd National Institute of Allergy and ID/Food Allergy and Anaphylaxis Network
+
+1. Acute onst (minutes - several hours) with invovlement of skin, mucosa, or both (e.g. hives, pruritis, flushing, facial angio edema) AND at least 1 of following:
+	- Respiratory compromise (e.g. shortness of breath, wheezing, stridor, reduced PEF, hypoxemia)
+	- Reduced BP or associate symptoms of end-organ dysfunction (e.g. hypotonia, syncope, incontinence)
+    
+2. Two or more of following that occur rapidly after exposure to likely allergen
+	- Involvement of skin-mucosal tissue
+    - Respiratory compromise
+    - Reduced BP or associated dx
+    - Persistent GI symptoms
+    
+3. Reduced BP after exposure to known allergen
+	- Infants/children: Low SBP (age specific) or > 30% decrease in SBP
+    - Adults: SBP < 90 mmHg or > 30% decrease in person's baseline
+    
+> *Low Pediatric SBP Definitions*
+> Age 1mo - 1yr:	SBP < 70 mmHg
+> Age 1yr - 10yrs: 	SBP < (70 mmHg + age*2)
+
+### ED Management
+1. Supine position, ABCs
+2. <span class="drug">IM epinepherine</span> STAT. Repeat every 5-15min if refractory
+	- 0.3 - 0.5mg for adults = 0.3-0.5 mL of 1:1000 concentration of epinepherine
+    - 0.15 mg of pt wt < 30kg
+    - **IM injection into lateral thigh** -- quickest absorption centrally
+3. IV fluids: 2 liters
+4. <span class="drug">H1 antagonist</span> e.g. diphenhydramine
+5. <span class="drug">H3 antagonist</span> e.g. ranitidine
+6. <span class="drug">Glucocorticods</span> e.g. methylprednisone, may blunt biphasic reaction
+7. <span class="drug">Beta-agonist nebulizer</span> e.g. albuterol, for wheezing
+8. Consider <span class="drug">Glucagon</span> 3.5-5 mg IV if refractory to epinepherine and on beta-blockers
+9. If discharging patient home after observation, prescribe <span class="drug">EpiPen</span>!
+
+---
+
+## References
+- Simons FER. *J Allergy Clin Immunol* 2010;125:S161-81. 
+- Arnold JJ, Williams PM. *Amer Fam Phys* 2011; 84(10):1111-8.

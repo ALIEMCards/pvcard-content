@@ -1,0 +1,7 @@
+# C1 and C2 Fractures
+
+|Injury (mechanism)|Stable|Comment|
+|-----------------|:---:|:-------------|
+|**Atlanto-occipital dislocation (flexion)**|No|Often instantly fatal, more common in children because of small horizontally-oriented occipital condyles, dislocation can be anterior (most common), superiorly distracted, or posterior|
+
+

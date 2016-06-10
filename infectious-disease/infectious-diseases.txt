@@ -1,0 +1,48 @@
+#Post-Exposure Prophylaxis (PEP): Non-Occupational Contact
+
+**Baseline testing of exposed patient:**
+-HIV
+-Hepatitis B (specifically HBsAb for immunity) and Hepatitis C antibody
+-Gonorrhea, chlamydia, syphillis
+-CBC, creatinine, LFT
+-Pregnancy
+
+**Risk of HIV**
+-Receptive anal intercourse: 1-30% risk
+-Insertive anal or receptive vaginal intercourse: 0.1-10% risk
+-Oral intercourse: "very low risk" but not zero risk
+-Needle sharing with injection drug use: 0.67% per needle-sharing contact
+
+**HIgh-risk source patient:**
+-Known HIV+ source patient
+-High-risk populations
+	-Men who have sex with men+/-women
+    -Commercial sex workers
+    -Injection drug users
+    -History of incarceration
+    -From a country with HIV seroprevalence >1%
+    - Persons with sexual partner in this high-risk population group
+
+**If decide to give PEP for possible HIV exposure:**
+-The sooner the treatment, the better. Start tx less than 48h after exposure. Still eligible if less than 72h.
+- PEP is associated with 81% decrease in HIV transmission.
+- Option #1: <span class="drug">Combivir</span> (300mg zidovudine-150mg lamivudine)- 1 tab PO BID
+	-[nausea, anemia, hepatotoxic, neutropenia, asthenia]
+- Option #2: <span class="drug">Truvada</span> (300mg tenofovir-200mg emtricitabine)- 1 tab PO QD
+	-better tolerated than combivir
+    -[nephrotoxic]
+ - For very high-risk exposure: Can add to Option #1 or #2- 
+ 	- <span class="drug">Kaletra</span> (ritonavir-lopinavir), or [hepatotoxic, diarrhea]
+    - <span class="drug">Ritonavir</span> **plus** <span class="drug">atazanavir</span>, or [hepatotoxic, jaundice, renal stones]
+    - <span class="drug">Ritonavir</span> **plus** <span class="drug">darunavir</span> [hepatotoxic, diarrhea]
+- Duration of tx = 28 days
+- Followup HIV and syphillis test at 4-6 weeks, 3 months, 6 months post-exposure
+
+**Additional treatment:** (http://www.cdc.gov/std/treatment/2010/sexual-assault.htm)
+- <span class="drug">ceftriaxone</span> 250mg IM x 1 (for Gonorrhea)
+- <span class="drug">Azithromycin</span> 1g PO x1 (for Chlamydia)
+- <span class="drug">Metronidazole</span> 2g PO x1 (for trichomonas)
+- Consider emergency contraception for women
+- <span class="drug">Hep B vaccination</span> if not fully vaccinated- need to finish series at 1-2 &4-6 mo
+ 
+
