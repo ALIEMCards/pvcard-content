@@ -8,4 +8,5 @@ Cards are sorted into directories by category. Images are stored in the images f
 
 ![](https://github.com/ALIEMCards/pvcard-content/blob/master/logo-horizontal-color.png)
 
-![]({{site.baseurl}}/logo-horizontal-color%402x.png)
+![Logo]({{site.baseurl}}/images/logo-horizontal-color.png)
+
