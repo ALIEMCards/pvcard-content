@@ -1,3 +1,6 @@
+baseurl: /blob/master
+url: http://github.com/ALIEMCards/pvcard-content
+
 prose:
   siteurl: 'http://github.com/ALIEMCards/pvcard-content/blob/master'
   media: 'images'
