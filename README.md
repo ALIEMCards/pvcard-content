@@ -6,4 +6,4 @@ This is the GitHub respository for the ALiEM Cards content. This content is main
 
 Cards are sorted into directories by category. Images are stored in the images file. They look like this:
 
-![]({{site.baseurl}}//images/logo-horizontal-color.png)
+![]({{site.baseurl}}/images/logo-horizontal-color.png)
