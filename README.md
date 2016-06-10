@@ -10,5 +10,5 @@ Cards are sorted into directories by category. Images are stored in the images f
 
 ![blackAndWhite](/images/logo-less-horizontal-black.png)
 
-
+![logoColor](/images/logo-less-horizontal-color.png)
 
